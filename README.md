@@ -34,10 +34,10 @@ I’m now expanding my expertise in **DevOps practices** and **self-hosting arch
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
 ### 🧩 Current Focus
-- Developing microservices using **TypeScript (Express.js)** and **Go**
-- Designing **REST APIs** and **modular backends** for scalability  
-- Exploring **Dockerized deployment** and **CI/CD** on **AWS**  
+- Developing **REST APIs** using **TypeScript (Express.js)** and **Go**
+- Exploring **Dockerized deployment** and **CI/CD**  
 - Creating **self-hosted developer tools** and backend utilities  
 ### 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhsyahrurramadhand/)
