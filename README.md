@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 I’m **Muhammad Syahrur Ramadhan D**, a **Backend Engineer** passionate about building scalable and secure systems.  
-I specialize in **Node.js**, **TypeScript**, and **Go**, with a growing focus on **backend architecture**, **self-hosting solutions**, and **containerization**.  
+I specialize in **Node.js** with **TypeScript**, with a growing focus on **backend architecture**, **self-hosting solutions**, and **containerization**.  
 
 I’m now expanding my expertise in **DevOps practices** and **self-hosting architectures**, developing full-stack applications that are both efficient and maintainable.
 
@@ -9,7 +9,6 @@ I’m now expanding my expertise in **DevOps practices** and **self-hosting arch
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,7 +16,6 @@ I’m now expanding my expertise in **DevOps practices** and **self-hosting arch
 ![Express.js](https://img.shields.io/badge/Express.js-303030?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ### Databases
@@ -36,7 +34,7 @@ I’m now expanding my expertise in **DevOps practices** and **self-hosting arch
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Zed](https://img.shields.io/badge/zedindustries-084CCF.svg?style=for-the-badge&logo=zedindustries&logoColor=white)
 ### 🧩 Current Focus
-- Developing **REST APIs** using **TypeScript (Express.js)** and **Go**
+- Developing **REST APIs** using **TypeScript (Express.js)**
 - Exploring **Dockerized deployment** and **CI/CD**  
 - Creating **self-hosted developer tools** and backend utilities  
 ### 📫 Connect With Me
