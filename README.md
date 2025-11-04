@@ -1,9 +1,6 @@
 # Hi there! 👋
 
-I’m **Muhammad Syahrur Ramadhan D**, a **Backend Engineer** passionate about building scalable and secure systems.  
-I specialize in **Node.js** with **TypeScript**, with a growing focus on **backend architecture**, **self-hosting solutions**, and **containerization**.  
-
-I’m now expanding my expertise in **DevOps practices** and **self-hosting architectures**, developing full-stack applications that are both efficient and maintainable.
+I’m **Syahrur**, a Civil Engineering graduate turned backend developer with strong analytical and problem-solving skills. Experienced in building scalable web applications using **Python, Django, Flask, Node.js, JavaScript, and TypeScript**, with solid understanding of **OOP and API design.** Proficient in both **SQL (PostgreSQL, MySQL)** and **NoSQL (MongoDB)** databases, and familiar with **containerization, cloud platforms (AWS), and modern development workflows**. Currently expanding expertise in **Go, Linux, and DevOps** tools like **Docker** and **CI/CD** to deliver efficient, cloud-ready backend systems. Highly adaptable, collaborative, and eager to contribute to innovative projects that integrate performance, reliability, and clean architecture.
 
 ## 🧠 Tech Stacks
 ### Languages
@@ -37,6 +34,7 @@ I’m now expanding my expertise in **DevOps practices** and **self-hosting arch
 - Developing **REST APIs** using **TypeScript (Express.js)**
 - Exploring **Dockerized deployment** and **CI/CD**  
 - Creating **self-hosted developer tools** and backend utilities  
-### 📫 Connect With Me
+### 📫 More Info About Me
+- 📄 [Resume](https://docs.google.com/document/d/1nOqOiv6EjySAYKYuyH4rwO3PA-oPX94y/edit?usp=sharing&ouid=103583427098251707604&rtpof=true&sd=true)
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhsyahrurramadhand/)
 - 🌐 Personal website coming soon!
