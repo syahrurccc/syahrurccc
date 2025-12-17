@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I’m **Syahrur**, a Civil Engineering graduate turned backend developer with strong analytical and problem-solving skills. Experienced in building scalable web applications using **Python, JavaScript, and TypeScript**, with solid understanding of **OOP and API design.** Proficient in both **SQL (PostgreSQL, MySQL)** and **NoSQL (MongoDB)** databases, and familiar with **containerization, cloud platforms (AWS), and modern development workflows**. Currently expanding expertise in **Go, Linux, and DevOps** tools like **Docker** and **CI/CD** to deliver efficient, cloud-ready backend systems. Highly adaptable, collaborative, and eager to contribute to innovative projects that integrate performance, reliability, and clean architecture.
+I’m **Syahrur**, a Civil Engineering graduate turned backend developer with strong analytical and problem-solving skills. Experienced in building scalable web applications using **Python, JavaScript, and TypeScript**, with solid understanding of **OOP and API design.** Proficient in both **SQL (PostgreSQL, MySQL)** and **NoSQL (MongoDB)** databases, and familiar with **containerization, cloud platforms (AWS), and modern development workflows**. Currently expanding expertise in **Java, Go, Linux, and DevOps** tools like **Docker** and **CI/CD** to deliver efficient, cloud-ready backend systems. Highly adaptable, collaborative, and eager to contribute to innovative projects that integrate performance, reliability, and clean architecture.
 
 ## 🧠 Tech Stacks
 ### Languages
@@ -12,12 +12,10 @@ I’m **Syahrur**, a Civil Engineering graduate turned backend developer with st
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ### Frameworks & Libraries
 ![Express.js](https://img.shields.io/badge/Express.js-303030?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -32,6 +30,7 @@ I’m **Syahrur**, a Civil Engineering graduate turned backend developer with st
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
